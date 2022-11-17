@@ -1,14 +1,7 @@
 ﻿
 namespace listEnum
 {
-    enum Color
-    {
-        RED,
-        BLUE,
-        GREEN
-    }
-
-    enum Direct
+    enum Direct //Direct search of ROI
     {
         RIGHTTOLEFT,
         LEFTTORIGHT,
